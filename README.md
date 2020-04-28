@@ -1,4 +1,4 @@
-# Desafio 3: Conceitos do ReactJS - BootCamp RocketSeat
+# Desafio 3: Conceitos do ReactJS - BootCamp Rocketseat
 
 Nesse projeto foi disponibilizado um template pela RocketSeat onde foi possivel aplicar os conhecimentos basicos 
 aprendidos no primeiro modulo de ReactJS do Bootcamp 
