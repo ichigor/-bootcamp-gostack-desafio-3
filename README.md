@@ -3,6 +3,9 @@
 Nesse projeto foi disponibilizado um template pela RocketSeat onde foi possivel aplicar os conhecimentos basicos 
 aprendidos no primeiro modulo de ReactJS do Bootcamp 
 
+A finalidade do Projeto é justamente ser o Front End consumindo informações que são cadastradas em um Back End, nesse
+exemplo são apresentados repositorios cadastrados e possibilita a inserção e remoção de um repositorio cadastrado no Back End
+
 ### Pré - requisitos
 ```
 Node
